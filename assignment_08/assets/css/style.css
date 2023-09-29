@@ -16,23 +16,20 @@
 
 }
 
-.man{
+.man>img{
     position: absolute;
     left: 0;
     margin: auto;
-    width: 130px;
+    width: 150px;
     height: 200px;
-    background-image: url("../images/man image.gif");
-    background-repeat: no-repeat;
+
 }
-.home{
+.home>img{
     position: absolute;
     left: 0;
     margin: auto;
     width: 290px;
     height: 190px;
-    background-image: url("../images/flat_house.gif");
-    background-repeat: no-repeat;
 }
 .letter{
     position: absolute;
@@ -41,19 +38,3 @@
     width: fit-content;
     height: fit-content;
 }
-/*.images{
-    height: 20px;
-    position: relative;
-}
-.images>div {
-    background-image: url("../images/man image.gif");
-    background-size: cover;
-    background-position: center;
-    display: inline-block;
-    width: calc(100% / 6);
-    aspect-ratio: 1/1;
-    margin-right: -0.5%;
-}
-div>h2{
-
-}*/
